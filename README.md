@@ -25,11 +25,11 @@ Others: REST APIs, Multi-Tenancy, Payment Integration (M-Pesa, Equity, KCB)
 | Project | Description | Stack |
 |----------|--------------|--------|
 | [Smart Accountant](https://github.com/Lanizk/smart-accountant) | Multi-tenant school accounting SaaS for managing student fees and finances. | Laravel, MySQL,Bootstrap |
-| [Church Data Collection System](https://github.com/Lanizk/church-data-system) | System for collecting and managing church member and attendance data. | Laravel, MySQL, Bootstrap |
-| [Kiosk Manager](https://github.com/Lanizk/kiosk-manager) | Flutter app for on-site registration and payment processing. | Flutter, Riverpod, Firebase|
-| [Laundry Website](https://github.com/Lanizk/laundry-website) | Professional web solution for laundry service businesses. | Laravel, Bootsrap|
-| [Movers Company Website](https://github.com/Lanizk/movers-company) | Website for a logistics and moving company, built with responsive design. | Laravel, Bootsrap |
-| [Social Media App](https://github.com/Lanizk/social-media-app) | Flutter app inspired by Reddit with authentication, posts, and comments. | Flutter, riverpod, Firebase |
+| [Church Data Collection System](https://github.com/Lanizk/church-data-collection-system) | System for collecting and managing church member and attendance data. | Laravel, MySQL, Bootstrap |
+| [Kiosk Manager](https://github.com/Lanizk/kioskmanager) | Flutter app for on-site registration and payment processing. | Flutter, Riverpod, Firebase|
+| [Laundry Website](https://github.com/Lanizk/laundrywebsite) | Professional web solution for laundry service businesses. | Laravel, Bootsrap|
+| [Movers Company Website](https://github.com/Lanizk/Movers-Company-Website) | Website for a logistics and moving company, built with responsive design. | Laravel, Bootsrap |
+| [Social Media App](https://github.com/Lanizk/my_flutter_app) | Flutter app inspired by Reddit with authentication, posts, and comments. | Flutter, riverpod, Firebase |
 
 ---
 
